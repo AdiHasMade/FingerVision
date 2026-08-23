@@ -40,12 +40,11 @@ FingerVision is an augmented reality application that generates an interactive, 
 
 ### Setup
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone https://github.com/AdiHasMade/FingerVision.git
    cd FingerVision
 
-   ```
-
+```
 
 
 2. **Create a virtual environment:**
