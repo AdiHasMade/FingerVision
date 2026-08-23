@@ -148,6 +148,4 @@ Then append the new function to the `FILTERS` list at the bottom of `filters.py`
 
 ## License
 
-This project is a creation solely owned and developed by **[AdiHasMade](https://github.com/AdiHasMade)**. It is not affiliated with any university, academic institution, or corporate entity.
-
-Distributed under the **Apache License 2.0**. You are free to use, modify, and distribute this software for personal or commercial purposes, provided that full copyright attribution is given to **[AdiHasMade](https://github.com/AdiHasMade)** and all modified files carry prominent notices stating that you changed the files.
+This project is distributed under the **MIT license**.
