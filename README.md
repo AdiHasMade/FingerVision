@@ -1,4 +1,3 @@
-```markdown
 # FingerVision
 
 FingerVision is an augmented reality application that generates an interactive, real-time spatial portal in live webcam footage using advanced hand-tracking algorithms. By analyzing multi-hand gesture coordinates, FingerVision dynamically constructs $N$-sided geometric viewports that apply real-time image processing filters, particle effects, and dual-world frame blending.
