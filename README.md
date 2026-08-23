@@ -148,4 +148,4 @@ Then append the new function to the `FILTERS` list at the bottom of `filters.py`
 
 ## License
 
-This project is distributed under the **MIT license**.
+This project is distributed under the **Apache License Version 2.0**.
