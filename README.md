@@ -57,7 +57,7 @@ python -m venv venv
 3. **Activate the environment:**
 * **Windows:**
 ```bash
-venv\Scripts\activate
+source venv/Scripts/activate
 
 ```
 
