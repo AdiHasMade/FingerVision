@@ -26,7 +26,7 @@ FingerVision is an augmented reality application that generates an interactive, 
 | `filter_8bit` | Downscaled linear pixelation re-upscaled with nearest-neighbor |
 | `filter_xray` | Bitwise color inversion over single-channel grayscale |
 | `filter_nightvision` | High-gain green channel projection with noise matrix |
-| `filtee_glitch` | Chromatic aberration with RGB channel separation |
+| `filter_glitch` | Chromatic aberration with RGB channel separation |
 | `filter_hologram` | Cyan scanline multiplication with frame opacity blending |
 | `filter_neon` | Glowing Canny edge outlines with soft Gaussian bloom |
 
