@@ -112,7 +112,7 @@ def main():
             if valid:
                 if detector.update(width, w):
                     filtro_idx = (filtro_idx + 1) % len(FILTROS)
-                frame = render_portal(frame, pts, FILTROS[filtro_idx], invert_world=True) #To get to CLASSIC WORLD(..., invert_world=False)
+                frame = render_portal(frame, pts, FILTROS[filtro_idx], invert_world=False) #To get to INVERTED WORLD(..., invert_world=True)
 
             c_time = time.time()
             fps = 1 / (c_time - p_time) if p_time else 0
