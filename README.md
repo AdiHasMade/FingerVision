@@ -20,15 +20,15 @@ FingerVision is an augmented reality application that generates an interactive, 
 
 | Filter | Description |
 | :--- | :--- |
-| `filtro_thermal` | Simulation of thermal camera using OpenCV `COLORMAP_JET` |
-| `filtro_cyberpunk` | Vibrant neon blue and red channel amplification |
-| `filtro_popart` | Adaptive edge thresholding with bilateral color filtering |
-| `filtro_8bit` | Downscaled linear pixelation re-upscaled with nearest-neighbor |
-| `filtro_xray` | Bitwise color inversion over single-channel grayscale |
-| `filtro_nightvision` | High-gain green channel projection with noise matrix |
-| `filtro_glitch` | Chromatic aberration with RGB channel separation |
-| `filtro_hologram` | Cyan scanline multiplication with frame opacity blending |
-| `filtro_neon` | Glowing Canny edge outlines with soft Gaussian bloom |
+| `filter_thermal` | Simulation of thermal camera using OpenCV `COLORMAP_JET` |
+| `filter_cyberpunk` | Vibrant neon blue and red channel amplification |
+| `filter_popart` | Adaptive edge thresholding with bilateral color filtering |
+| `filter_8bit` | Downscaled linear pixelation re-upscaled with nearest-neighbor |
+| `filter_xray` | Bitwise color inversion over single-channel grayscale |
+| `filter_nightvision` | High-gain green channel projection with noise matrix |
+| `filtee_glitch` | Chromatic aberration with RGB channel separation |
+| `filter_hologram` | Cyan scanline multiplication with frame opacity blending |
+| `filter_neon` | Glowing Canny edge outlines with soft Gaussian bloom |
 
 ---
 
